@@ -20,7 +20,7 @@ Include all necessary data reading and pre-processing code in `BQ_run_module.py`
 
 ### **`input_path_dict`**
 
-The `input_path_dict` parameter is a dictionary with input names as keys and their corresponding paths as values.&#x20;
+The `input_path_dict` parameter is a dictionary with input names as keys and their corresponding paths as values.
 
 {% hint style="info" %}
 **NOTE**
@@ -28,7 +28,7 @@ The `input_path_dict` parameter is a dictionary with input names as keys and the
 _It is important to note that these input names will be the labels that Bisque will display in your module web page._
 {% endhint %}
 
-_****_
+_\*\*\*\*_
 
 ![Input Example](https://github.com/ivanfarevalo/BQ\_module\_generator/raw/main/public/input\_ex.png)
 
@@ -45,7 +45,7 @@ The `output_folder_path` parameter is a path to the directory where output resul
 
 ### **`output_paths_dict`**
 
-You should save all output result paths into a dictionary with descriptive and unique output names as keys. _**These output names will be used by Bisque as labels in your module results web page.**_&#x20;
+You should save all output result paths into a dictionary with descriptive and unique output names as keys. _**These output names will be used by Bisque as labels in your module results web page.**_
 
 **Example**
 
@@ -140,7 +140,7 @@ _IT IS IMPORTANT TO **TRIPLE CHECK OUTPUT FILE EXTENSIONS** TO AVOID BUGS WHEN U
 
 Test your `BQ_run_module.py` file by writing some test code in the `if __name__ == '__main__':` code block. A simple test implementation is shown above. Once `BQ_run_module.py` is working as expected, you can containerize your application with docker. Follow the instructions on [downloading docker](https://www.docker.com/products/docker-desktop), [creating a Dockerfile](https://docker-curriculum.com/#dockerfile), and [running a container](https://docker-curriculum.com/#docker-run). Here is an example of a Dockerfile for a simple edge detection module.
 
-_**You must include the section**** ****`Copy Source Code`**** ****in your own Dockerfile.**_
+_**You must include the section\*\*\*\***** ****`Copy Source Code`**** ****\*\*\*\*in your own Dockerfile.**_
 
 ```docker
 # ==================================================================
@@ -168,7 +168,7 @@ WORKDIR /module
 COPY src /module/src
 ```
 
-In your `{ModuleName}` folder, you can create your image by running&#x20;
+In your `{ModuleName}` folder, you can create your image by running
 
 {% code title="Terminal" %}
 ```shell
@@ -176,6 +176,6 @@ docker build -t {modulemame}:v0.0.0 .
 ```
 {% endcode %}
 
-**Note** that docker images are only allowed to have lowercase letters.&#x20;
+**Note** that docker images are only allowed to have lowercase letters.
 
 Run your docker container with `docker run -it {modulemame}:v0.0.0 bash` and test your application inside the container by calling `python BQ_run_module.py`.
