@@ -2,14 +2,14 @@
 description: How to upload DICOM files to BisQue
 ---
 
-# Upload DICOMs
+# Upload DICOM files
 
 ## Uploading DICOMs to BisQue
 
 Once logged in successfully, you will see **Upload** in the top menu bar. Click on **Upload** and feel free to **Drag-and-Drop** files or Select **Choose Files** or **Choose Directory**.
 
 {% hint style="danger" %}
-**WARNING: DICOM FILES MUST BE ZIPPED!** \
+**WARNING: DICOM FILES MUST BE ZIPPED!**\
 Before uploading your folder of `DICOM` files, make sure they are compressed/zipped. On Mac, two-finger click on the file and hit **Compress `YOUR-FOLDERNAME`**. This will zip the folder and allow you to upload that single zipped file to BisQue. We currently do not support uploading the raw directory to BisQue.
 {% endhint %}
 
@@ -42,4 +42,4 @@ Zip the folder containing these files and you are good to go!
 
 Select the option that says **Several DICOM files in a package (unpack and inspect)**. BisQue will correctly parse the `DICOM` files and upload them as dataset if there are multiple images. After its uploaded, you can click on the <mark style="color:blue;">**Blue Text**</mark> to be taken to your uploaded files.
 
-<figure><img src="../../.gitbook/assets/upload-dicom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/upload-dicom.png" alt=""><figcaption></figcaption></figure>
