@@ -10,6 +10,8 @@ description: Data upload from a web browser like Chrome
 
 Make sure you are [logged in](../login-signup.md). If you are logged in, the MENU bar will include the **Upload** option.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Step 2. Upload File or Folder
 
 Click **Upload** from the toolbar. There will be two options: **Choose File** or **Choose Directory**.
