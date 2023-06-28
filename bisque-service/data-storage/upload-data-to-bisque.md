@@ -1,14 +1,14 @@
+---
+description: Data upload from a web browser like Chrome
+---
+
 # Data Upload from Web
 
 ## Uploading Data to BisQue Service
 
-<figure><img src="../../.gitbook/assets/upload.png" alt=""><figcaption></figcaption></figure>
-
 ### Step 1. Login
 
 Make sure you are [logged in](../login-signup.md). If you are logged in, the MENU bar will include the **Upload** option.
-
-
 
 ### Step 2. Upload File or Folder
 

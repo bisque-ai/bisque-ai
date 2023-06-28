@@ -1,3 +1,7 @@
+---
+description: All about BisQue Data
+---
+
 # Data Storage
 
 ## BisQue Storage System

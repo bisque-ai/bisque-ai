@@ -1,3 +1,7 @@
+---
+description: Account Setup
+---
+
 # LogIn / SignUp
 
 * New users can easily sign up for BisQue by filling out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfUCwOdl8Gd1KErPXbLWSPvF74ApT7M142sYQVdwluDUJXMAg/viewform).
