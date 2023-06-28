@@ -10,13 +10,13 @@ description: BisQue Intro
 
 ## What is BisQue
 
-An open-source web-based platform that supports **data storage for petabytes, ML based data analysis and reproducible workflows**, and **visualization**.
+[BisQue](https://bisque2.ece.ucsb.edu/client\_service/) is an open-source web-based platform that supports **data storage for petabytes, ML based data analysis and reproducible workflows**, and **visualization**.
 
 
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-BisQue is specifically designed to provide researchers with organizational and quantitative analysis tools for up to 5D image data. Users can extend BisQue by creating their own modules that take advantage of cutting edge machine learning algorithms. BisQue’s extensibility stems from two core concepts: an open web-based architecture and a flexible metadata facility. Together, these empower researchers to <mark style="background-color:orange;">create, develop, and share</mark> novel multi-modal data analyses.
+BisQue is specifically designed to provide researchers with organizational and quantitative analysis tools for up to 5D image data. Users can extend BisQue by creating their own modules that take advantage of cutting edge machine learning algorithms. BisQue’s extensibility stems from two core concepts: an open web-based architecture and a flexible metadata facility. Together, these empower researchers to create, develop, and share novel multi-modal data analyses.
 
 
 
