@@ -1,5 +1,7 @@
 ---
 description: Account Setup
+cover: ../.gitbook/assets/Screenshot from 2023-06-28 16-01-25.png
+coverY: 0
 ---
 
 # LogIn / SignUp
