@@ -23,13 +23,13 @@ This module takes in an image or a dataset of images. It generates bounding box 
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Module Page Preview, after providing the inputs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Module Page Preview, after providing the inputs</p></figcaption></figure>
 
 ### Expected Outputs
 
 * Annotations added to the image as G-Objects
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Module Page Preview, once the module execution is finished</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Module Page Preview, once the module execution is finished</p></figcaption></figure>
 
 #### Output Interpretation
 

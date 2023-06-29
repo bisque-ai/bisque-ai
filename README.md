@@ -30,8 +30,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [data-storage](bisque-service/data-storage/)
 {% endcontent-ref %}
 
-{% content-ref url="bisque-service/visualization.md" %}
-[visualization.md](bisque-service/visualization.md)
+{% content-ref url="bisque-service/visualization/" %}
+[visualization](bisque-service/visualization/)
 {% endcontent-ref %}
 
 {% content-ref url="bisque-service/analysis/" %}
