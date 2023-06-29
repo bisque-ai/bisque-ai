@@ -13,6 +13,7 @@
     * [Upload BisQue Archives](bisque-service/data-storage/upload-other-file-formats/upload-bisque-archives.md)
 * [Data Visualization](bisque-service/visualization.md)
 * [Data Analysis / Modules](bisque-service/analysis/README.md)
+  * [Prairie Dog Detection](bisque-service/analysis/prairie-dog-detection.md)
   * [NPH Prediction](bisque-service/analysis/nph-prediction.md)
   * [CellECT 2.0](bisque-service/analysis/cellect-2.0.md)
 
