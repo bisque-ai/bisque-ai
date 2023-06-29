@@ -10,7 +10,6 @@
   * [Data Upload from CLI](bisque-service/data-storage/cli\_based\_upload/README.md)
   * [Upload other file formats](bisque-service/data-storage/upload-other-file-formats/README.md)
     * [Upload DICOM files](bisque-service/data-storage/upload-other-file-formats/upload-dicoms.md)
-    * [Upload BisQue Archives](bisque-service/data-storage/upload-other-file-formats/upload-bisque-archives.md)
 * [Data Visualization](bisque-service/visualization.md)
 * [Data Analysis / Modules](bisque-service/analysis/README.md)
   * [Prairie Dog Detection](bisque-service/analysis/prairie-dog-detection.md)
