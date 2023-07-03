@@ -4,31 +4,78 @@ description: DICOMS and NII.GZ files
 
 # Brain CT Scans
 
-TBD
+This page shows different ways to visualize Brain CT Scan Images.
 
+## Sample Files
 
+Brain CT scans are typically available as DICOM (.dcm) files or NII (.nii.gz) files.
 
-BisQue has very powerful visualization tools that can help users understand their data better. In this section we aim to present how BisQue visualization capabilities are utilized in different applications. Few of the use cases include:
+* [Sample DICOM file](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-syvRY9kUHpbNRA7vwMbvRh)
+* [Sample NII file](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-xzAMZ2J4gmSHZreanEMwMD)
 
+Rest of the page is illustrated using this [DICOM file](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-syvRY9kUHpbNRA7vwMbvRh).
 
+## View in 2D Tiled Viewer
 
-{% content-ref url="brain-ct-scans.md" %}
-[brain-ct-scans.md](brain-ct-scans.md)
-{% endcontent-ref %}
+This is the default viewer of BisQue.
 
-{% content-ref url="multi-spectral-imagery.md" %}
-[multi-spectral-imagery.md](multi-spectral-imagery.md)
-{% endcontent-ref %}
+<div align="left">
 
-{% content-ref url="3d-materials.md" %}
-[3d-materials.md](3d-materials.md)
-{% endcontent-ref %}
+<figure><img src="../../.gitbook/assets/bisque_docs (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-{% content-ref url="jpegs-and-pngs.md" %}
-[jpegs-and-pngs.md](jpegs-and-pngs.md)
-{% endcontent-ref %}
+</div>
 
+* Traverse over depth (Z-axes) using the buttons in the bottom right corner.
 
+<div align="left">
 
+<figure><img src="../../.gitbook/assets/bisque_docs (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
+</div>
+
+* Other filters to visualization, such as, contrast enhancement, can be adjusted using the buttons in top left corner.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/bisque_docs (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+## View in 3D Volume  Renderer
+
+Navigate to 3D Volume Renderer. (It might take couple of seconds to load.)
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/bisque_docs (9).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+Right click and move mouse to get a feel of it.
+
+<figure><img src="../../.gitbook/assets/3d_viewer.gif" alt=""><figcaption></figcaption></figure>
+
+Play around with the self explanatory options on top right corner.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/bisque_docs.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+## View as a Movie
+
+* Go to `Movie` mode
+
+![](<../../.gitbook/assets/bisque\_docs (8).png>)
+
+* Hit Play, at bottom left corner.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/sample.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Hope this helps!
 
