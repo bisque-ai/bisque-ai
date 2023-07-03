@@ -23,13 +23,13 @@ This module takes in an image or a dataset of images. It generates bounding box 
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Module Page Preview, after providing the inputs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Module Page Preview, after providing the inputs</p></figcaption></figure>
 
 ### Expected Outputs
 
 * Annotations added to the image as G-Objects
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Module Page Preview, once the module execution is finished</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Module Page Preview, once the module execution is finished</p></figcaption></figure>
 
 #### Output Interpretation
 
@@ -41,11 +41,11 @@ Once the module execution is complete, one can navigate to the input dataset to 
 
 * Navigate to the dataset.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 * Go to the Annotation View.
 
-![](<../../.gitbook/assets/bisque\_docs (3).png>)
+![](<../../.gitbook/assets/bisque\_docs (1).png>)
 
 * Click on Graphical to view the annotation
 
@@ -59,7 +59,7 @@ Once the module execution is complete, one can navigate to the input dataset to 
 * Click on `Download`
 * Click on `Graphical Annotations as XML`
 
-![](<../../.gitbook/assets/bisque\_docs (1).png>)
+![](<../../.gitbook/assets/bisque\_docs (1) (1).png>)
 
 
 
