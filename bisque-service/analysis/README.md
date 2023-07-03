@@ -1,27 +1,21 @@
-# Analysis
+# Data Analysis / Modules
 
 ### 🔥 Current Modules
 
 This is the official list of modules currently available on the BisQue Production service.
 
 ```
-CalcMaxMisorientation
-CellProfiler
-CellSegment3DUnet
-CellSegmentation2D
-COVIDPredictor
-CovidResnet
-Dream3D
-Dream3D_6.5.10
-Dream3D_UCSB
-EnhancedReconstruction
-MaskRCNN
-MetaData
-nphprediction
-PlantcellSegment
-PlantcellTracking
-substratedetector
-TwoPhasePrediction
-WatershedSegmentation
-XtalsMesh
+3D Material GAN
+Cell Segment 3D: UNet
+EBSDSR
+ManTraNet
+NPH Prediction
+NPH Segmentation Metric
+NPH Segmentation Pipeline
+Poisson2Sparse
+Prairie Dog Detection
+QRBSA
+Seam Carving Detection
+Species Tracker and Counter
+Substrate Detector
 ```
