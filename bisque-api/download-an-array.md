@@ -4,7 +4,7 @@
 
 In this example, we will show you how to use the BQAPI to download a multidimensional array from within an HDF file and return it as a `numpy` array in `Python`.
 
-***
+
 
 The API call goes as follows:
 
@@ -15,7 +15,7 @@ The API call goes as follows:
 5. Use the table service to load the array
 6. Return the array
 
-***
+
 
 ### **Step 0. Import Dependencies**
 

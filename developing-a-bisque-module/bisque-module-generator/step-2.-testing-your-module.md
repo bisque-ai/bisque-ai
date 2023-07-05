@@ -1,6 +1,6 @@
 # Step 2. Testing Your Module
 
-## Testing Module&#x20;
+## Testing Module
 
 You can now start testing your module in Bisque. The first step is to edit your Dockerfile to create a new image that will include all the extra layers required for Bisque communication.
 
@@ -102,7 +102,7 @@ The only line that should be updated is `docker.image = {modulename}:{tagname}`.
 It is very important to update the `runtime-module.cfg` each time you build an image with a different name or tag so Bisque pulls the correct image you want to test.
 {% endhint %}
 
-****
+
 
 This is an example of a `runtime-module.cfg` for the EdgeDetection module:
 

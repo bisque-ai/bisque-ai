@@ -10,11 +10,9 @@ FILENAME: `NAME_OF_MODULE.xml`, where `NAME_OF_MODULE` is replaced by the name o
 
 The module definition file lays out the interface that the system can call the module with. The simplest form simply lists the name, location and arguments needed to run the modules. Here is an example of a module definition document:
 
-***
+
 
 #### **Example** XML File
-
-
 
 {% code title="MetaData.xml" %}
 ```xml
@@ -74,9 +72,9 @@ The module definition document is actually a templated MEX document. The templat
 
 A module can define inputs and outputs and rely on the automated interface generation or can provide a fully customized user interface delivered by the module server by proxying the data made available by the engine service. Input configurations may also be used by the modules that define their own interfaces since they can call renderers provided by the module service.
 
-***
 
-## Module Description&#x20;
+
+## Module Description
 
 Each module has to be described in various ways to be useful. Each module has a number of required, as well as optional parameters it has/may contain. Type in this case can control where the data is coming from, for example default "string" suggests the data is in-place. "file" directs the engine server to look for the file starting in the module root directory.
 
@@ -120,7 +118,7 @@ An HTML document with a module help that the user can be directed to the documen
 </tag>
 ```
 
-## Configurations for Images, Datasets, and Resources&#x20;
+## Configurations for Images, Datasets, and Resources
 
 ### **Label**
 
@@ -163,9 +161,9 @@ Makes resource optional.
 <tag name="allow_blank" value="true" type="boolean" />
 ```
 
-***
 
-## **`Image` Specific Configurations**&#x20;
+
+## **`Image` Specific Configurations**
 
 ### **Require Geometry**
 
@@ -193,11 +191,11 @@ Specify a message to show if failed requires validation.
 <tag name="fail_message" value="Only supports 3D images!" />
 ```
 
-***
 
-## **`gobject` Specific Configurations**&#x20;
 
-### **GObject Example**&#x20;
+## **`gobject` Specific Configurations**
+
+### **GObject Example**
 
 {% code title="YOUR-MODULE.xml" %}
 ```xml
@@ -261,9 +259,7 @@ Configuration for `require_gobjects` consists of:
     * 'many' - only more than one object allowed
     * 'oneornone' - only one or none
     * number - exact number of objects allowed
-    * $$\leq X$$ - operand followed by a number, accepts:$$<,>,<=,>=,==$$ &#x20;
-
-
+    * $$\leq X$$ - operand followed by a number, accepts:$$<,>,<=,>=,==$$
 
     **Example**. Note that $$<$$ sign should be encoded in an XML attribute.
 
@@ -315,9 +311,9 @@ Specify a default color for created gobjects
 </gobject>
 ```
 
-***
 
-## **`string` Specific Configurations**&#x20;
+
+## **`string` Specific Configurations**
 
 ### **Label**
 
@@ -399,9 +395,9 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-***
 
-## **`number` Specific Configurations**&#x20;
+
+## **`number` Specific Configurations**
 
 A number can select one or more values, in case of selecting multiple values they will be selected using a multi-slider.
 
@@ -521,9 +517,9 @@ Using multiple values:
 </tag>
 ```
 
-***
 
-## **`combo` Specific Configurations**&#x20;
+
+## **`combo` Specific Configurations**
 
 ### **Label**
 
@@ -591,11 +587,11 @@ Allows a combo box string to be edited directly and would allow input of values 
 <tag name="editable" value="true" type="boolean" />
 ```
 
-***
 
-## **`boolean` Specific Configurations**&#x20;
 
-### **Label**&#x20;
+## **`boolean` Specific Configurations**
+
+### **Label**
 
 Simply specifies the label rendered before asking for a resource:
 
@@ -635,9 +631,9 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-***
 
-## **`date` Specific Configurations**&#x20;
+
+## **`date` Specific Configurations**
 
 This renderer allow you to pick both date and time.
 
@@ -699,29 +695,9 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-***
 
-## **`hyperlink` Specific Configurations**&#x20;
 
-### **Default Value**
-
-Default value of this field:
-
-```xml
-<tag name="defaultValue" value="" />
-```
-
-### **Editable**
-
-Whether this field is editable by the user, true by default:
-
-```xml
-<tag name="editable" value="true" type="boolean" />
-```
-
-***
-
-## **`email` Specific Configurations**&#x20;
+## **`hyperlink` Specific Configurations**
 
 ### **Default Value**
 
@@ -739,9 +715,29 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-***
 
-## **`bisqueresource` Specific Configurations**&#x20;
+
+## **`email` Specific Configurations**
+
+### **Default Value**
+
+Default value of this field:
+
+```xml
+<tag name="defaultValue" value="" />
+```
+
+### **Editable**
+
+Whether this field is editable by the user, true by default:
+
+```xml
+<tag name="editable" value="true" type="boolean" />
+```
+
+
+
+## **`bisqueresource` Specific Configurations**
 
 ### **Resource Type**
 
@@ -767,9 +763,9 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-***
 
-## **`annotation_status` Specific Configurations**&#x20;
+
+## **`annotation_status` Specific Configurations**
 
 This element allows marking resources with annotation status as:
 
@@ -777,9 +773,9 @@ This element allows marking resources with annotation status as:
 * **FINISHED**
 * **APPROVED**
 
-***
 
-## **`image_channel` Specific Configurations**&#x20;
+
+## **`image_channel` Specific Configurations**
 
 ### **Example of Image Channel**
 
@@ -844,9 +840,9 @@ Allows selection of 'None' channel, used for optional channel selection:
 <tag name="allowNone" value="true" type="boolean" />
 ```
 
-***
 
-## **`pixel_resolution` Specific Configurations**&#x20;
+
+## **`pixel_resolution` Specific Configurations**
 
 This element must have for values that represent X, Y, Z and T resolution values in microns, microns, microns and seconds respectively.
 
@@ -915,9 +911,9 @@ Used to show tool tip information:
 <tag name="description" value="This is a default voxel resolution and is only used during the dataset run if the image does not have one." />
 ```
 
-***
 
-## **`annotation_attr` Specific Configurations**&#x20;
+
+## **`annotation_attr` Specific Configurations**
 
 This element allows select attributes of annotations (tags/gobjects) from either whole database or constrained by a dataset. For example it can be used to select a type out of a list of all types of graphical annotations.
 
@@ -1004,9 +1000,9 @@ Default value for the dataset to constrain query:
 <tag name="dataset" value="/data_service/" /> 
 ```
 
-***
 
-## **`mex` Specific Configurations**&#x20;
+
+## **`mex` Specific Configurations**
 
 This element selects a previously run module execution in order to chain modules.
 
@@ -1053,7 +1049,7 @@ This option allows MEX selector to pretend it is an image resource selector by f
 <tag name="query_selected_resource" value="resource_url" /> 
 ```
 
-***
+
 
 ## Data-Parallel Execution
 

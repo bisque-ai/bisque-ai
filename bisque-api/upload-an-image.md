@@ -8,7 +8,7 @@ description: How to upload an image to UCSB BisQue Production instance using the
 
 In this example, we will show you how to use the BQAPI to upload one of the over 100+ supported Biological formats from a Jupyter Notebook.
 
-***
+
 
 The API call goes as follows:
 
@@ -16,7 +16,7 @@ The API call goes as follows:
 2. Login using `USERNAME` and `PASSWORD`
 3. Upload the Image
 
-***
+
 
 ### **STEP 0. Import Dependencies**
 

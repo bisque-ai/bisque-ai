@@ -33,7 +33,7 @@ This module takes in a video and generates outputs a labeled video, counts, and 
 
 ### Instructions on Using The Module
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Uploading Output Annotation files to CVAT
 
