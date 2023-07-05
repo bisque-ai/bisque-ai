@@ -11,7 +11,7 @@ This page shows different ways to visualize Brain CT Scan Images.
 Brain CT scans are typically available as DICOM (.dcm) files or NII (.nii.gz) files.
 
 * [Sample DICOM file - 1](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-syvRY9kUHpbNRA7vwMbvRh)
-* [Sample DICOM file -2](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-WWQbMTvD82RQUQYn8N3XuE)
+* [Sample DICOM file - 2](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-WWQbMTvD82RQUQYn8N3XuE)
 * [Sample NII file](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-xzAMZ2J4gmSHZreanEMwMD)
 
 Rest of the page is illustrated using this [DICOM file](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-syvRY9kUHpbNRA7vwMbvRh).
