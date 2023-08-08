@@ -1,5 +1,21 @@
 ---
 description: Inference pipeline to detect Animals in Mara Images
+cover: ../../../.gitbook/assets/mara (3).jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Mara Animal Detection
@@ -12,9 +28,9 @@ This module takes in an image or a dataset of images. It generates bounding box 
 
 ### Navigate to Module Page
 
-[Login](../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> MaraAnimalDetection
+[Login](../../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> MaraAnimalDetection
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Navigation to Module Page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Navigation to Module Page</p></figcaption></figure>
 
 ### Expected Inputs
 
@@ -25,7 +41,7 @@ This module takes in an image or a dataset of images. It generates bounding box 
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Run Inference
 
@@ -33,7 +49,7 @@ Hit `Run` after providing required inputs.
 
 You should be able to see the status messages at the bottom of the page.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Module page after running the inference</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Module page after running the inference</p></figcaption></figure>
 
 ### Expected Outputs
 
@@ -48,15 +64,15 @@ Once the module execution is complete, one can navigate to the input dataset to 
 
 * Navigate to the dataset.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 * Go to the Annotation View.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 * Click on Graphical to view the annotation
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 
 
@@ -66,7 +82,7 @@ Once the module execution is complete, one can navigate to the input dataset to 
 * Click on `Download`
 * Click on `Graphical Annotations as XML`
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7).png>)
 
 
 
