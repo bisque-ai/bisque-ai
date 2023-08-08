@@ -6,4 +6,4 @@ In this document, we show what all visualizations one can do, on a JPEG/PNG imag
 
 The eye icon on the top right has all the visualization options that one can do on standard JPEG and PNG images.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

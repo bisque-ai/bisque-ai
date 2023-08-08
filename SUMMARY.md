@@ -16,6 +16,7 @@
   * [3D Materials](bisque-service/visualization/3d-materials.md)
   * [JPEGs and PNGs](bisque-service/visualization/jpegs-and-pngs.md)
 * [Data Analysis / Modules](bisque-service/analysis/README.md)
+  * [Mara Animal Detection](bisque-service/analysis/mara-animal-detection.md)
   * [Underwater Species Tracker and Counter](bisque-service/analysis/underwater-species-tracker-and-counter.md)
   * [Prairie Dog Detection](bisque-service/analysis/prairie-dog-detection.md)
   * [NPH Prediction](bisque-service/analysis/nph-prediction.md)
