@@ -10,8 +10,8 @@ In other words, end goal of the project is to enable a Rear Seat Observer (at Ma
 
 * Module to Run the Inference
 
-{% content-ref url="mara-animal-detection.md" %}
-[mara-animal-detection.md](mara-animal-detection.md)
+{% content-ref url="mara-animal-detector.md" %}
+[mara-animal-detector.md](mara-animal-detector.md)
 {% endcontent-ref %}
 
 * Module to Evaluate a machine learning model
