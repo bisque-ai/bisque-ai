@@ -17,7 +17,7 @@
   * [JPEGs and PNGs](bisque-service/visualization/jpegs-and-pngs.md)
 * [Data Analysis / Modules](bisque-service/analysis/README.md)
   * [Masai Mara](bisque-service/analysis/masai-mara/README.md)
-    * [Mara Annotation Tagger](bisque-service/analysis/masai-mara/mara-annotation-tagger.md)
+    * [Mara Animal Annotator](bisque-service/analysis/masai-mara/mara-animal-annotator.md)
     * [Mara Animal Detector](bisque-service/analysis/masai-mara/mara-animal-detector.md)
     * [Mara Report Generator](bisque-service/analysis/masai-mara/mara-report-generator.md)
     * [Mara Evaluator](bisque-service/analysis/masai-mara/mara-evaluator.md)
