@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Mara Animal Detection
+# Mara Animal Detector
 
 This page describes how one can run the BisQue Module `MaraAnimalDetection`
 
@@ -30,7 +30,7 @@ This module takes in an image or a dataset of images. It generates bounding box 
 
 [Login](../../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> MaraAnimalDetection
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Navigation to Module Page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Navigation to Module Page</p></figcaption></figure>
 
 ### Expected Inputs
 
@@ -41,7 +41,7 @@ This module takes in an image or a dataset of images. It generates bounding box 
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Run Inference
 
@@ -49,7 +49,7 @@ Hit `Run` after providing required inputs.
 
 You should be able to see the status messages at the bottom of the page.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Module page after running the inference</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Module page after running the inference</p></figcaption></figure>
 
 ### Expected Outputs
 
@@ -64,7 +64,7 @@ Once the module execution is complete, one can navigate to the input dataset to 
 
 * Navigate to the dataset.
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 * Go to the Annotation View.
 

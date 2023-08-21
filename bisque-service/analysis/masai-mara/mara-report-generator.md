@@ -8,7 +8,7 @@ This page describes how one can run the BisQue Module named `ReportGeneration`
 
 ## Run Instructions
 
-This module takes in an image or a dataset of images, along with a name of a valid G-Object and generates CSV files and few visuals to illustrate the high level statistics on the animals present in the dataset and that are tagged to input G-object.
+This module takes in a dataset of images along with the name of a valid G-Object and generates CSV files and a few visuals to illustrate the high-level statistics on the animals present in the dataset and that are tagged to the input G-object.
 
 ### Navigate to Module Page
 
