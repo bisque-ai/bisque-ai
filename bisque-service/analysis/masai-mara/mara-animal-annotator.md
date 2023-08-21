@@ -8,11 +8,11 @@ This page describes how one can run the BisQue Module named `Mara Animal Annotat
 
 ## Run Instructions
 
-This module takes in an image or a dataset of images, along with a text file containing the annotations that correspong to input dataset. It tags the bounding boxes in text file to input images as Graphical Objects (commonly referred to as G-Objects in BisQue).
+This module takes in an image or a dataset of images, along with a text file containing the annotations that correspond to input dataset. It tags the bounding boxes in the text file to input images as graphical objects (commonly referred to as `G-Objects` in BisQue).
 
 ### Navigate to Module Page
 
-[Login](../../login-signup.md) >> Analyze >> `Mara Animal Annotator`
+[Login](../../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> `Mara Animal Annotator`
 
 ### Expected Inputs
 
