@@ -12,23 +12,7 @@ Users can come to BisQue with a dataset of images and use BisQue as follows:
 
 <details>
 
-<summary>Annotate, and Train</summary>
-
-* Upload the dataset to BisQue
-
-<!---->
-
-* Hand Annotate the Dataset or Import the Annotations to BisQue
-
-<!---->
-
-* Train the AI model
-
-</details>
-
-<details>
-
-<summary>Predict and Export the Annotations</summary>
+<summary>Predict and Export</summary>
 
 * Upload the dataset to BisQue
 
@@ -43,6 +27,22 @@ Users can come to BisQue with a dataset of images and use BisQue as follows:
 <!---->
 
 * Export the Annotations from BisQue
+
+</details>
+
+<details>
+
+<summary>Annotate and Train</summary>
+
+* Upload the dataset to BisQue
+
+<!---->
+
+* Hand Annotate the Dataset or Import the Annotations to BisQue
+
+<!---->
+
+* Train the AI model
 
 </details>
 
