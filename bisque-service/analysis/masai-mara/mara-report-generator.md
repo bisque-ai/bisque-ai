@@ -17,7 +17,7 @@ This module takes in a dataset of images along with the name of a valid G-Object
 ### Expected Inputs
 
 * An image or a dataset of images
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-wzri2GdPGYauPHxA2KimU6) for a sample dataset of input images
+  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-KiEfGPpfTrHigpoUtTjKgB) for a sample dataset of input images
 * Annos to Analyse
   * String representing the name of the G-Object (Ex: `annos_from_AI`)
 

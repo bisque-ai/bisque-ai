@@ -17,9 +17,9 @@ This module takes in an image or a dataset of images, along with a text file con
 ### Expected Inputs
 
 * An image or a dataset of images
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-wzri2GdPGYauPHxA2KimU6) for a sample dataset of input images
+  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-KiEfGPpfTrHigpoUtTjKgB) for a sample dataset of input images
 * Annotation File
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-EJkQEpynxcU6rXtJG2RrcG) for a sample model file
+  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-aZxfYuTBhne4uQSUv5Mkd) for a sample model file
 * Annotation Name
   * This can be any string that can be used to name the annotations that are going to be tagged as inputs (for example, `ground_truth_annos`).
 

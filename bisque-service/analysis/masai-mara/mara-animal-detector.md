@@ -35,9 +35,9 @@ This module takes in an image or a dataset of images. It generates bounding box 
 ### Expected Inputs
 
 * An image or a dataset of images
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-MqbqAoVHYAsxC8RnL8rpYE) for a sample dataset of input images
+  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-KiEfGPpfTrHigpoUtTjKgB) for a sample dataset of input images
 * Machine Learning Model
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-w3Qeuyrkmf3Dyjs2Ek7xFk) for a sample model file
+  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-E8jASuwJRnL95uhF3fjtm5) for a sample model file
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
