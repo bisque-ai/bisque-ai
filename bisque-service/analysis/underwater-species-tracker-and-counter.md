@@ -39,7 +39,7 @@ This module takes in a video and generates outputs a labeled video, counts, and 
 
 1. Download CVAT Annotation File from the module outputs
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Open CVAT and upload the same video
 4. In the Actions drop-down menu, select `Upload annotations` (Please make sure to delete any existing annotations on CVAT)
