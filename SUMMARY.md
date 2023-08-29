@@ -26,6 +26,8 @@
   * [Prairie Dog Detection](bisque-service/analysis/prairie-dog-detection.md)
   * [NPH Prediction](bisque-service/analysis/nph-prediction.md)
   * [CellECT 2.0](bisque-service/analysis/cellect-2.0.md)
+* [Other BisQue Features](bisque-service/other-bisque-features/README.md)
+  * [Annotations on BisQue](bisque-service/other-bisque-features/annotations-on-bisque.md)
 
 ## Running BisQue Service
 
