@@ -1,10 +1,10 @@
-# Masai Mara
+# Maasai Mara
 
-This section describes all modules developed for the Masai Mara team.
+This section describes all modules developed for the Maasai Mara team.
 
 ## Objective
 
-Primary objective of the project is to semi-automate the Masai Mara's image processing pipelines using BisQue. In other words, the goal is to enable a Rear Seat Observer (at Mara Reserve) to upload the images to BisQue and semi-automate the image annotation and image analysis workflows by letting them leverage BisQue.
+Primary objective of the project is to semi-automate the Maasai Mara's image processing pipelines using BisQue. In other words, the goal is to enable a Rear Seat Observer (at Mara Reserve) to upload the images to BisQue and semi-automate the image annotation and image analysis workflows by letting them leverage BisQue.
 
 ## BisQue Usage Overview
 

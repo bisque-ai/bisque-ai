@@ -28,7 +28,7 @@ This module takes in an image or a dataset of images. It generates bounding box 
 
 ### Navigate to Module Page
 
-[Login](../../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> MaraAnimalDetection
+[Login](../../login-signup.md) >> Analyze >> Maasai Mara (in Groups Column) >> MaraAnimalDetection
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Navigation to Module Page</p></figcaption></figure>
 

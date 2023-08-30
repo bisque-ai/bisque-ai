@@ -12,7 +12,7 @@ This module takes in a dataset of images along with the name of a valid G-Object
 
 ### Navigate to Module Page
 
-[Login](../../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> `ReportGeneration`
+[Login](../../login-signup.md) >> Analyze >> Maasai Mara (in Groups Column) >> `ReportGeneration`
 
 ### Expected Inputs
 

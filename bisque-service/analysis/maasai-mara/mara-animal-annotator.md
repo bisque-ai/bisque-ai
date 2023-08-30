@@ -12,7 +12,7 @@ This module takes in an image or a dataset of images, along with a text file con
 
 ### Navigate to Module Page
 
-[Login](../../login-signup.md) >> Analyze >> Masai Mara (in Groups Column) >> `Mara Animal Annotator`
+[Login](../../login-signup.md) >> Analyze >> Maasai Mara (in Groups Column) >> `Mara Animal Annotator`
 
 ### Expected Inputs
 
