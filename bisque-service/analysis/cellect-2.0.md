@@ -20,7 +20,7 @@ By using 3D UNET on the backend, we are able to segment the 3D volumes of the ce
 
 The module workflow consists of a source code folder with information on how to run the algorithm. We can then Dockerize the source code folder using a base image that includes the necessary CUDA libraries and dependencies and beginning testing whther the source code runs inside the container. Thereafter, we deploy the module on BisQue for public usage.
 
-
+***
 
 ### Input
 

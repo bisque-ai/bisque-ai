@@ -25,6 +25,7 @@
   * [Underwater Species Tracker and Counter](bisque-service/analysis/underwater-species-tracker-and-counter.md)
   * [Prairie Dog Detection](bisque-service/analysis/prairie-dog-detection.md)
   * [NPH Prediction](bisque-service/analysis/nph-prediction.md)
+  * [iNPH Analysis](bisque-service/analysis/inph-analysis.md)
   * [CellECT 2.0](bisque-service/analysis/cellect-2.0.md)
 * [Other BisQue Features](bisque-service/other-bisque-features/README.md)
   * [Annotations on BisQue](bisque-service/other-bisque-features/annotations-on-bisque.md)
