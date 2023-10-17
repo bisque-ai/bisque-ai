@@ -20,7 +20,7 @@ This page gives a brief overview of how users can access and visualize 3D Materi
 
 * Navigate to dataset named `Ti64_10_8_2012_HT2`
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

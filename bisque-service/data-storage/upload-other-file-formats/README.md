@@ -4,4 +4,4 @@ BisQue is good at handling numerous image and file formats. BisQue can actually 
 
 List of supported formats can be found on BisQue: (`Login >> Click Upload Button >> Click on Formats`)
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

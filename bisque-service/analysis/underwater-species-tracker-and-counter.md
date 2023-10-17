@@ -33,13 +33,13 @@ This module takes in a video and generates outputs a labeled video, counts, and 
 
 ### Instructions on Using The Module
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Uploading Output Annotation files to CVAT
 
 1. Download CVAT Annotation File from the module outputs
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Open CVAT and upload the same video
 4. In the Actions drop-down menu, select `Upload annotations` (Please make sure to delete any existing annotations on CVAT)
@@ -48,7 +48,7 @@ This module takes in a video and generates outputs a labeled video, counts, and 
 
 5. Choose CVAT 1.1 and drag the downloaded CVAT annotation file
 
-<img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="original">
 
 6. Now visualize the predictions and fix them
 
