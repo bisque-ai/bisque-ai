@@ -41,7 +41,7 @@ This module takes in an image or a dataset of images. It generates bounding box 
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Run Inference
 

@@ -2,7 +2,7 @@
 
 **Overview**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>High level Overview of the Flow Chart</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>High level Overview of the Flow Chart</p></figcaption></figure>
 
 This study examines whether quantifiable changes can be detected in ventricular volume in Idiopathic Normal Pressure Hydrocephalus (iNPH) patients that undergo ventriculo-peritoneal shunt procedures.
 
@@ -30,7 +30,7 @@ One can test the module using the above pair, or use their own pair of scans as 
 Once you are logged in successfully, you can access the NPH Prediction module by [Clicking Here](https://bisque2.ece.ucsb.edu/module\_service/inphanalysis/?wpublic=1) or by using the Menu bar at the top of the homepage.
 
 > **From the Menu Bar.** Using the Menu bar at the top of the screen, go to `Analyze --> Segmentation --> iNPH Analysis`. You might have to scroll down a little bit since we are adding more modules.\
-> ![](<../../.gitbook/assets/image (1).png>)
+> ![](<../../.gitbook/assets/image (1) (1).png>)
 
 #### STEP 4. Run iNPH Analysis Module
 
@@ -50,9 +50,11 @@ Once on the NPH Prediction homepage,
 
     > <img src="../../.gitbook/assets/nph_module/nph_fig_select_pytorch_model.png" alt="" data-size="original">
 
-    * In the search bar, type `filename:*_epoch200.pt` and hit Enter. This should filter out the required pytorch files. Now, select the first model in the list and hit `Select`.
+    * In the search bar, type `filename:inph_analyser.pt` and hit Enter. This should filter out the required pytorch files. Now, select the first model in the list and hit `Select`.
 
-    > <img src="../../.gitbook/assets/nph_module/nph_fig_select_pytorch_model_step2.png" alt="" data-size="original">
+
+
+    > ![](<../../.gitbook/assets/image (24).png>)
 * Hit `RUN` Button.
 * It is expected to take around 200 seconds to 500 seconds of runtime, depending upon the input file size, cluster compute availability, and various other factors.
 *   Visualize the `Results`

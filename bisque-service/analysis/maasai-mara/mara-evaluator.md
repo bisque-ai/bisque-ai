@@ -23,7 +23,7 @@ This module takes in a dataset of images along with two valid G-Object names and
 * Predicted Annotations
   * String representing the name of a G-Object (Ex: `annos_from_AI`)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Expected Outputs
 
@@ -31,7 +31,7 @@ This module takes in a dataset of images along with two valid G-Object names and
   * A Table that can be exported as CSV
   * A Consfusion Matrix
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Better Visualization of Confusion Matrix:
 

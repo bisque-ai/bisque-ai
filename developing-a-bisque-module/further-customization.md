@@ -10,7 +10,7 @@ FILENAME: `NAME_OF_MODULE.xml`, where `NAME_OF_MODULE` is replaced by the name o
 
 The module definition file lays out the interface that the system can call the module with. The simplest form simply lists the name, location and arguments needed to run the modules. Here is an example of a module definition document:
 
-
+***
 
 #### **Example** XML File
 
@@ -72,7 +72,7 @@ The module definition document is actually a templated MEX document. The templat
 
 A module can define inputs and outputs and rely on the automated interface generation or can provide a fully customized user interface delivered by the module server by proxying the data made available by the engine service. Input configurations may also be used by the modules that define their own interfaces since they can call renderers provided by the module service.
 
-
+***
 
 ## Module Description
 
@@ -161,7 +161,7 @@ Makes resource optional.
 <tag name="allow_blank" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`Image` Specific Configurations**
 
@@ -191,7 +191,7 @@ Specify a message to show if failed requires validation.
 <tag name="fail_message" value="Only supports 3D images!" />
 ```
 
-
+***
 
 ## **`gobject` Specific Configurations**
 
@@ -311,7 +311,7 @@ Specify a default color for created gobjects
 </gobject>
 ```
 
-
+***
 
 ## **`string` Specific Configurations**
 
@@ -395,7 +395,7 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`number` Specific Configurations**
 
@@ -517,7 +517,7 @@ Using multiple values:
 </tag>
 ```
 
-
+***
 
 ## **`combo` Specific Configurations**
 
@@ -587,7 +587,7 @@ Allows a combo box string to be edited directly and would allow input of values 
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`boolean` Specific Configurations**
 
@@ -631,7 +631,7 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`date` Specific Configurations**
 
@@ -695,7 +695,7 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`hyperlink` Specific Configurations**
 
@@ -715,7 +715,7 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`email` Specific Configurations**
 
@@ -735,7 +735,7 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`bisqueresource` Specific Configurations**
 
@@ -763,7 +763,7 @@ Whether this field is editable by the user, true by default:
 <tag name="editable" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`annotation_status` Specific Configurations**
 
@@ -773,7 +773,7 @@ This element allows marking resources with annotation status as:
 * **FINISHED**
 * **APPROVED**
 
-
+***
 
 ## **`image_channel` Specific Configurations**
 
@@ -840,7 +840,7 @@ Allows selection of 'None' channel, used for optional channel selection:
 <tag name="allowNone" value="true" type="boolean" />
 ```
 
-
+***
 
 ## **`pixel_resolution` Specific Configurations**
 
@@ -911,7 +911,7 @@ Used to show tool tip information:
 <tag name="description" value="This is a default voxel resolution and is only used during the dataset run if the image does not have one." />
 ```
 
-
+***
 
 ## **`annotation_attr` Specific Configurations**
 
@@ -1000,7 +1000,7 @@ Default value for the dataset to constrain query:
 <tag name="dataset" value="/data_service/" /> 
 ```
 
-
+***
 
 ## **`mex` Specific Configurations**
 
@@ -1049,7 +1049,7 @@ This option allows MEX selector to pretend it is an image resource selector by f
 <tag name="query_selected_resource" value="resource_url" /> 
 ```
 
-
+***
 
 ## Data-Parallel Execution
 
