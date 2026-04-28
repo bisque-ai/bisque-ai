@@ -30,7 +30,7 @@ _It is important to note that these input names will be the labels that Bisque w
 
 _\*\*\*\*_
 
-![Input Example](https://github.com/ivanfarevalo/BQ\_module\_generator/raw/main/public/input\_ex.png)
+![Input Example](https://github.com/ivanfarevalo/BQ_module_generator/raw/main/public/input_ex.png)
 
 _**These input names must also match the input names specified with the cli in a later step.**_ This will become clear later, for now, just choose some descriptive and unique input names that you would like Bisque to display in the module web page. You will use these input names to index the `input_path_dict` dictionary and load each resource from its respective path. Ex:
 
@@ -54,7 +54,7 @@ output_paths_dict = {}
 output_paths_dict['Output Image'] = output_img_path
 ```
 
-![Output Example](https://github.com/ivanfarevalo/BQ\_module\_generator/raw/main/public/output\_ex.png)
+![Output Example](https://github.com/ivanfarevalo/BQ_module_generator/raw/main/public/output_ex.png)
 
 These output paths must also be the same names used to specify outputs with the cli at a later step. The `run_module` function must return this dictionary of output paths in order for Bisque to read and post results back to the module web page.
 
@@ -140,7 +140,7 @@ _IT IS IMPORTANT TO **TRIPLE CHECK OUTPUT FILE EXTENSIONS** TO AVOID BUGS WHEN U
 
 Test your `BQ_run_module.py` file by writing some test code in the `if __name__ == '__main__':` code block. A simple test implementation is shown above. Once `BQ_run_module.py` is working as expected, you can containerize your application with docker. Follow the instructions on [downloading docker](https://www.docker.com/products/docker-desktop), [creating a Dockerfile](https://docker-curriculum.com/#dockerfile), and [running a container](https://docker-curriculum.com/#docker-run). Here is an example of a Dockerfile for a simple edge detection module.
 
-_**You must include the section\*\*\*\***** ****`Copy Source Code`**** ****\*\*\*\*in your own Dockerfile.**_
+_**You must include the section\*\*\*\*****&#x20;****`Copy Source Code`****&#x20;****\*\*\*\*in your own Dockerfile.**_
 
 ```docker
 # ==================================================================

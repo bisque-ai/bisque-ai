@@ -2,20 +2,6 @@
 description: Inference pipeline to detect Animals in Mara Images
 cover: ../../../.gitbook/assets/mara (3).jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Mara Animal Detector
@@ -35,9 +21,9 @@ This module takes in an image or a dataset of images. It generates bounding box 
 ### Expected Inputs
 
 * An image or a dataset of images
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-KiEfGPpfTrHigpoUtTjKgB) for a sample dataset of input images
+  * [Click here](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-KiEfGPpfTrHigpoUtTjKgB) for a sample dataset of input images
 * Machine Learning Model
-  * [Click here](https://bisque2.ece.ucsb.edu/client\_service/view?resource=https://bisque2.ece.ucsb.edu/data\_service/00-E8jASuwJRnL95uhF3fjtm5) for a sample model file
+  * [Click here](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-E8jASuwJRnL95uhF3fjtm5) for a sample model file
 * Output G-Object Name
   * This can be any string that can be used to name the annotations predicted by this module execution.
 
