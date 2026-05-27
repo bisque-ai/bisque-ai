@@ -23,6 +23,7 @@
     * [Mara Evaluator](bisque-service/analysis/maasai-mara/mara-evaluator.md)
     * [Train a new detector](bisque-service/analysis/maasai-mara/train-a-new-detector.md)
   * [Material Science](bisque-service/analysis/material-science/README.md)
+    * [AmalgaMatcherDataset](bisque-service/analysis/material-science/amalgamatcherdataset.md)
     * [Materials\_MatchAnyImagery](bisque-service/analysis/material-science/materials_matchanyimagery.md)
   * [Underwater Species Tracker and Counter](bisque-service/analysis/underwater-species-tracker-and-counter.md)
   * [Prairie Dog Detection](bisque-service/analysis/prairie-dog-detection.md)
