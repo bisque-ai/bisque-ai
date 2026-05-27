@@ -2,6 +2,27 @@
 description: Inference pipeline to detect Animals in Mara Images
 cover: ../../../.gitbook/assets/mara (3).jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Mara Animal Detector
