@@ -2,6 +2,7 @@
 description: >-
   A multimodal matching module that aligns material imagery across different
   microscope modalities by learning shared representations.
+cover: ../../../.gitbook/assets/thumbnail.jpeg
 coverY: 0
 coverHeight: 510
 ---

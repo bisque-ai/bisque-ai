@@ -12,6 +12,7 @@ This page describes detailed information about Amalga Matcher Dataset. The datas
 
 * [Link to Browse the Dataset on BisQue](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-eYP67Chau3m3baAGeWF423) (See below for more detailed instructions)
 * [Link to Download the Original ZIP file through BisQue](https://bisque2.ece.ucsb.edu/client_service/view?resource=https://bisque2.ece.ucsb.edu/data_service/00-8YoW6Gcfdy6APzH8XUCZ2t)
+  * Another alternative source to downlaod the dataset: [Click Here](https://fordatis.fraunhofer.de/handle/fordatis/478?mode=full\&locale=de)
 
 ### Instructions to Browse the Dataset
 
