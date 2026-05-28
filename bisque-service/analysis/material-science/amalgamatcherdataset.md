@@ -18,3 +18,7 @@ This page describes detailed information about Amalga Matcher Dataset. The datas
 
 It is not always a comfortable download the 4.3GB large ZIP file and "visualize" the TIF files. BisQue simplifies this process by hosting the dataset in a visualizable format, through the webapp.
 
+
+
+\[ More updates coming soon ]
+

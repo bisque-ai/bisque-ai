@@ -18,3 +18,5 @@ This module matches materials imagery obtained from different microscopy modalit
 #### Navigate to Module Page
 
 [Login](https://bisque.gitbook.io/docs/bisque-service/login-signup) >> Analyze >> MatchAnyImagery<br>
+
+\[ More updates coming soon ]
